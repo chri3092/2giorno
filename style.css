@@ -43,14 +43,19 @@ header li {
     
     }
 
+.topbar p {
+    padding: 4px 0;
+}
+
 main {
     margin: 15px;
+    background-color: rgb(226, 156, 70);
 }
 
 .gift {
     position: relative;
     font-family: 'Roboto', sans-serif;
-
+    
 
 }
 
@@ -72,16 +77,8 @@ main {
   
 }
 
-/* .gift {
-    text-align: center;
-    color: white;
-    margin: 0 15px;
-    background-image: url(assets/bg-image.png);
-    background-size: contain;
-    width: 100%;
-} /*
 
-
-
-
-
+#find {
+    display: flex;
+    
+}
